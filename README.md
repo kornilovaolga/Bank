@@ -1,5 +1,5 @@
 
-[![Build Status](https://ci.appveyor.com/project/kornilovaolga/bank)](https://ci.appveyor.com/project/kornilovaolga/bank)
+[![Build Status](https://ci.appveyor.com/project/kornilovaolga/bank/builds/48610427)](https://ci.appveyor.com/project/kornilovaolga/bank/builds/48610427)
 
 
 Задача №1: заказ карты
